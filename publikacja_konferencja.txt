@@ -1,6 +1,7 @@
-Publikacja nr 1
+﻿Publikacja nr 1
 
-Tytuł
-Autor
+Tytuł: Publikacja o fizyce
+Autor: Gabriela Cabala
 
-Abstrakt
+Abstrakt:
+do napisania pozniej
