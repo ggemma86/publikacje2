@@ -1,16 +1,16 @@
 ﻿Publikacja nr 1
 
 Tytuł: Publikacja o fizyce
-Autor: Stanislaw Kowalski, Gabriela Cabala
+Autor: Stanislaw Kowalski, Gabriela Cabala, Janek Kowalski
 
 Abstrakt:
 do napisania pozniej
 
 Dane:
-Jeszcze ich nie ma. generuja sie.
+Nasze wspolne dane
 
 Analiza
-Wnioski
 
+Wnioski
+(to napisze Janek)
 Bibliografia
-....
